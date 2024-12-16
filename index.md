@@ -1,9 +1,9 @@
 # Get Right Training Privacy Policy
 
-Last updated: [Current Date]
+Last updated: 12/15/2024
 
 ## Introduction
-Get Right Training ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by Get Right Training.
+Get Right Training we are committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by Get Right Training.
 
 ## Information We Collect
 ### Information you provide to us:
@@ -42,8 +42,7 @@ We use Firebase for:
 - Analytics
 
 ## Contact Us
-If you have questions about this Privacy Policy, please contact us at:
-[Your Contact Email]
+If you have questions about this Privacy Policy, please contact us at: broganseier15@gmail.com
 
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
