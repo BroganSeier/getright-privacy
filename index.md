@@ -3,7 +3,7 @@
 Last updated: 12/15/2024
 
 ## Introduction
-Get Right Training we are committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by Get Right Training.
+Get Right Training is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by Get Right Training.
 
 ## Information We Collect
 ### Information you provide to us:
